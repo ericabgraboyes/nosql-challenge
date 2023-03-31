@@ -1,3 +1,5 @@
+##### Source Code: The code in this repo uses the base starter code provided. The remaining part of the code reflects individual contributions
+
 ## Project Overview
 The UK Food Standards Agency evaluates various establishments across the United Kingdom, and gives them a food hygiene rating. <br> <br>
 The ask is to evaluate some of the rating data in order to help identify where to focus future articles <br>
